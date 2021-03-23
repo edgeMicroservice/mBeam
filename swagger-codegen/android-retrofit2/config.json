@@ -1,0 +1,10 @@
+{
+  "modelPackage" : "com.mimik.common.mbeam.model",
+  "apiPackage"   : "com.mimik.common.mbeam.api",
+  "invokerPackage" : "com.mimik.common.mbeam.invoker",
+  "groupId" : "com.mimik.common.mbeam",
+  "artifactId"  : "mbeam",
+  "fullJavaUtil" : false,
+  "useRxJava2": true,
+  "library" :  "retrofit2"
+}

@@ -1,0 +1,11 @@
+name: mimik
+api:
+  name: mbeam
+  swagger: node_modules/swagger-mbeam/mbeam-api-swagger.yml
+  controllerPath: ../src/controllers
+  securityHandlerPath: ../src/handlers
+  outputPath: ./build
+package:
+  imageName: mbeam
+  imageIndexFilePath: ./build/index.js
+  outputFolder: ./deploy

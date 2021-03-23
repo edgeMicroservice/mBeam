@@ -1,0 +1,1 @@
+java -jar ../swagger-codegen-cli-2.4.12.jar generate -i ../../node_modules/swagger-mbeam/mbeam-api-swagger.yml -l java -c config.json -o mbeam

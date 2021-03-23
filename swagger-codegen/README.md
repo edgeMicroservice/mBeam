@@ -1,0 +1,2 @@
+Download swagger-codegen 2.4.12 from https://repo1.maven.org/maven2/io/swagger/swagger-codegen-cli/2.4.12/swagger-codegen-cli-2.4.12.jar and place it in the swagger-codegen directory
+Navigate into the platform directory of choice and run the build script
