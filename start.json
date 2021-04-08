@@ -1,0 +1,10 @@
+{
+  "env": {
+    "MCM.BASE_API_PATH": "/beam/v1",
+    "ownerCode": "{{mbeamApiKey}}",
+    "MCM.WEBSOCKET_SUPPORT": true,
+    "signatureKey": "{{mbeamSignKey}}"
+  },
+  "image": "{{imageName}}",
+  "name": "{{containerName}}"
+}
